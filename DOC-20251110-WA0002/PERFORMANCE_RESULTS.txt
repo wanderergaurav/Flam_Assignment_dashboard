@@ -1,0 +1,1 @@
+Sample local run notes: Generated 10,000 points; measured ~60 FPS (example).

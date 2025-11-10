@@ -1,0 +1,1 @@
+See components/ for templates: LineChart, DataProvider, Dashboard, hooks.

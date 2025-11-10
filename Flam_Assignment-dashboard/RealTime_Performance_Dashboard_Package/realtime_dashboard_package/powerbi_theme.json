@@ -1,0 +1,16 @@
+{
+  "name": "Real-Time Performance Dark Neon",
+  "dataColors": [
+    "#60A5FA",
+    "#10B981",
+    "#06B6D4",
+    "#F97316",
+    "#A78BFA",
+    "#EF4444",
+    "#34D399"
+  ],
+  "background": "#0F1724",
+  "foreground": "#E6EEF8",
+  "tableAccent": "#2563EB",
+  "visualStyles": {}
+}
